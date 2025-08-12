@@ -4,3 +4,4 @@ from django.shortcuts import render
 def index(request):
     return render(request,'core/index.html')
 print(("another "))
+print("man change data")
