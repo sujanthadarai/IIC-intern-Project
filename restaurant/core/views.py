@@ -5,3 +5,4 @@ def index(request):
     return render(request,'core/index.html')
 print(("another "))
 print("man change data")
+print("afnai")
