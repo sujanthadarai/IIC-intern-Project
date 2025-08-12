@@ -6,3 +6,4 @@ def index(request):
 print(("another "))
 print("man change data")
 print("afnai")
+print("9 by man")
